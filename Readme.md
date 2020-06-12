@@ -1,4 +1,4 @@
-![NPM](https://img.shields.io/npm/l/mytidbit)
+![NPM](https://img.shields.io/npm/l/mytidbit) (![Codecov](https://img.shields.io/codecov/c/github/deepak/todo?style=flat-square))
 
 ## Chainyard challenge
 
