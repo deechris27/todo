@@ -33,4 +33,4 @@ DELETE http://localhost:5000/api/logout *Logout*
 
 Once logged in, request should have Access and Refresh token. Access token is valid for 60s. Once expired, new token is generated through refresh token.
 
-**All the test cases for protected routes are set to expect 403 since dummy access token is given. Change it to valid access token and the should statement to 400. remove the commented lines if valid access token used to pass the tests**
+**All the test cases for protected routes are set to expect 403 since dummy access token is given. Change it to valid access token and the should statement to 200. Remove the commented lines if valid access token used to pass the tests**
