@@ -1,4 +1,4 @@
-const app = require('../app');
+const app = require('../app'); // or chai.request('http://localhost:5000')
 const chai = require('chai');
 const chaiHttp = require('chai-http');
 const should = chai.should();
