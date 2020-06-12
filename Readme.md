@@ -1,5 +1,5 @@
 # Endpoints
-```
+
 GET http://localhost:5000/  *get all the todos*
 
 GET http://localhost:5000/api  *test api route*
@@ -30,5 +30,5 @@ DELETE http://localhost:5000/api/logout *Logout*
 {
   Authorization: "Bearer *access token*"
 }
-```
+
 Once logged in, request should have Access and Refresh token. Access token is valid for 60s. Once expired, new token is generated through refresh token.
