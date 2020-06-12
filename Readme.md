@@ -2,8 +2,11 @@
 
 ```
   npm install
+
   npm install --only-dev
+
   npm start
+
   npm test
 ```
 
