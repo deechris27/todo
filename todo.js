@@ -35,6 +35,11 @@ class Todo {
     const sql = 'DELETE FROM todos where id = ?';
     db.run(sql, id, callback);
   };
+
+  static removeAll(){
+    db.exec("delete from todos");
+    //db.execSQL("delete from todos");
+  }
   
 }
 

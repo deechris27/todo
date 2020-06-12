@@ -124,3 +124,5 @@ app.delete('/api/logout', (req, res) => {
 app.listen(port, () => {
     console.log("Server listening on port 5k...")
 });
+
+module.exports = app;

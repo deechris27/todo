@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "test": "mocha"
   },
   "keywords": [],
   "author": "Deepak <dd43030@gmail.com> (http://tidbit.c.la/)",
@@ -15,5 +16,10 @@
     "express": "4.17.1",
     "jsonwebtoken": "8.5.1",
     "sqlite3": "4.2.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "chai-http": "4.3.0",
+    "mocha": "8.0.1"
   }
 }
