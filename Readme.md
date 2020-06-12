@@ -1,4 +1,4 @@
-![NPM](https://img.shields.io/npm/l/mytidbit) ![deepak] https://img.shields.io/badge/unit--tests-passing-green
+![NPM](https://img.shields.io/npm/l/mytidbit) ![deepak](https://img.shields.io/badge/unit--tests-passing-green)
 
 ## Chainyard challenge
 
