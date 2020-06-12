@@ -1,4 +1,4 @@
-https://img.shields.io/sonar/test_success_density/mocha
+https://img.shields.io/apm/l/chain
 
 ## Chainyard challenge
 
