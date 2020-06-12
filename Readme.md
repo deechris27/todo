@@ -1,3 +1,12 @@
+## Chainyard challenge
+
+```
+  npm install
+  npm install --only-dev
+  npm start
+  npm test
+```
+
 # Endpoints
 
 GET http://localhost:5000/  *get all the todos*
