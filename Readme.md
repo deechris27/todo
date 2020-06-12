@@ -1,4 +1,4 @@
-https://img.shields.io/apm/l/chain
+![NPM](https://img.shields.io/npm/l/mytidbit)
 
 ## Chainyard challenge
 
